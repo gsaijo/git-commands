@@ -1,25 +1,26 @@
-<h2>Aula de Git</h2>
+# <h2> Comandos apresentados pelo curso básico de git da EBAC </h2>
 
 
-git init: Inicializa um novo repositório.
+**git init:** Inicializa um novo repositório.
 
-git clone: Clona um repositório existente.
+**git clone:** Clona um repositório existente.
 
-git add: Adiciona alterações ao índice.
+**git add:** Adiciona alterações ao índice.
 
-git commit: Registra alterações no repositório com uma mensagem de commit.
+**git commit:** Registra alterações no repositório com uma mensagem de commit.
 
-git status: Exibe o estado das alterações.
+**git status:** Exibe o estado das alterações.
 
-git pull: Puxa alterações do repositório remoto.
+**git pull:** Puxa alterações do repositório remoto.
 
-git push: Envia alterações locais para o repositório remoto.
+**git push:** Envia alterações locais para o repositório remoto.
 
-git branch: Lista, cria ou exclui branches.
+**git branch:** Lista, cria ou exclui branches.
 
-git checkout: Muda para um branch específico ou restaura arquivos.
+**git checkout:** Muda para um branch específico ou restaura arquivos.
 
-git merge: Combina alterações de diferentes branches.
-git log: Exibe o histórico de commits.
+**git merge:** Combina alterações de diferentes branches.
 
-git remote: Exibe ou gerencia repositórios remotos.
+**git log:** Exibe o histórico de commits.
+
+**git remote:** Exibe ou gerencia repositórios remotos.
